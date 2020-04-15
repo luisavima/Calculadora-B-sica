@@ -1,0 +1,20 @@
+h1 {
+  text-align: center;
+  color: white;
+}
+.App {
+  margin-top: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.calculator {
+  width: 400px;
+  height: 600px;
+}
+
+.row {
+  display: flex;
+  width: 100%;
+}
